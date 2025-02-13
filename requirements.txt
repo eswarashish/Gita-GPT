@@ -1,0 +1,12 @@
+chromadb==0.6.3
+fastapi==0.115.8
+fastapi-cli==0.0.7
+langchain==0.3.17
+langchain-core==0.3.33
+langchain-groq==0.2.4
+langgraph==0.2.70
+langgraph-checkpoint==2.0.12
+langgraph-sdk==0.1.51
+PyPDF2==3.0.1
+uvicorn==0.34.0
+python-dotenv
