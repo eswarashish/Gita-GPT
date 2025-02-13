@@ -135,5 +135,4 @@ def send_response(conversation_id: str,query:str):
 * Each unique thread id can be unique catering multiple threads for multiple users
 
 ## Demo
-<div style="position: relative; padding-bottom: 56.25%; height: 0;">
-<iframe src="https://www.loom.com/embed/f5a55ed1631546aaaba0c7af9e3c1d5a?sid=9deca8af-eef9-409c-afb8-7b00684ddcab" frameborder="0" webkitallowfullscreen mozallowfullscreen allowfullscreen style="position: absolute; top: 0; left: 0; width: 100%; height: 100%;"></iframe></div>
+<iframe src="https://www.loom.com/embed/f5a55ed1631546aaaba0c7af9e3c1d5a?sid=9deca8af-eef9-409c-afb8-7b00684ddcab" frameborder="0" webkitallowfullscreen mozallowfullscreen allowfullscreen style="position: absolute; top: 0; left: 0; width: 100%; height: 100%;"></iframe>
